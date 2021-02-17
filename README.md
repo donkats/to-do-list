@@ -15,5 +15,5 @@ npm start
 
 ### Demo
 
-Will be added later
+https://donkats-komensky.netlify.app/
 
