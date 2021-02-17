@@ -26,7 +26,7 @@ const TodoForm = ({ addTodo }) => {
 };
 
 TodoForm.propTypes = {
-  addTodo: PropTypes.string.isRequired,
+  addTodo: PropTypes.func.isRequired,
 };
 
 export default TodoForm;

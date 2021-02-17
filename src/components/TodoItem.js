@@ -14,7 +14,7 @@ const TodoItem = ({
 
 TodoItem.propTypes = {
   todo: PropTypes.string.isRequired,
-  index: PropTypes.string.isRequired,
+  index: PropTypes.number.isRequired,
   handleStrikeClick: PropTypes.func.isRequired,
   handleDeleteClick: PropTypes.func.isRequired,
 };
