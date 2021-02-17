@@ -4,14 +4,14 @@ A simple to-do list made with React and Hooks
 
 ## Functionalities
 
-Adding a new to-do item
-Completing a to-do item
-Deleting a to-do item
+Adding a new to-do item  
+Completing a to-do item  
+Deleting a to-do item  
 
 ## Run script
 
-npm install
-npm start
+npm install  
+npm start  
 
 ### Demo
 
